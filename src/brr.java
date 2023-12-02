@@ -14,7 +14,7 @@ public class brr {
 	        else if (n==7) System.out.println("воскресение");
 	        else System.out.println("такого дня недели не существует");
 
-	    }*/
+	    */}
 		int a = 65;
 		System.out.println(a%=10);
 	    
